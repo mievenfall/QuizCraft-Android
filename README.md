@@ -1,6 +1,6 @@
 # QuizCraft
 
-<img src='./Screenshot_20240416_221009.png' title='Chosen Screenshot' width='180' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221031.png' title='Chosen Screenshot' width='180' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135354.png' title='Chosen Screenshot' width='180' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135432.png' title='Chosen Screenshot' width='180' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221134.png' title='Chosen Screenshot' width='180' alt='Chosen Screenshot' />
+<img src='./Screenshot_20240416_221009.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221031.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135354.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135432.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221134.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' />
  
 ## What is the use of this Android App
 
