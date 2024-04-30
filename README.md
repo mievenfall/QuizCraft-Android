@@ -1,6 +1,6 @@
 # QuizCraft
 
-<img src='./Screenshot_20240416_221009.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221031.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135354.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240425_135432.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./Screenshot_20240416_221134.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' />
+<img src='./1.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./2.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./3.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./4.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' /> <img src='./5.png' title='Chosen Screenshot' width='200' alt='Chosen Screenshot' />
  
 ## What is the use of this Android App
 
@@ -12,7 +12,7 @@ This Project demonstrates the following
 ## Google Store URL
 
 ### https://play.google.com/store/apps/details?id=com.cs4750.quizcraft&hl=en_IN
-This URL has the application deployed in
+This URL has the application published in
 
 ## Getting Started
 
@@ -28,6 +28,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Application design
+
+### Proposed idea
+This app creates quiz based on user’s query, the questions will be created by ChatGPT by OpenAI GPT API, and will be processed and displayed in the app, then the result will displayed the correct answers and explanations.
+
+### Proposed wireframe
+
+<img src='./0.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ### Components
 
